@@ -45,7 +45,7 @@ Also I'm currently making my personal webpage (<a href='https://github.com/Orhan
 ##  Ask me about ☝️
 
  - What are difficulties to improve yourself while you are student?
- - How to continue when everything start to become overwhelming? 
+ - How to continue when everything starts to become overwhelming? 
  - Is it too late to start something?
  
 Also you can ask technical stuff about I mentioned above.
