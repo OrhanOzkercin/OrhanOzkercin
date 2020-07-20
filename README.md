@@ -52,9 +52,9 @@ Also you can ask technical stuff about I mentioned above.
 
 ## Contact me ☎️
 <a href='https://www.linkedin.com/in/orhanozkercin/'>
-<img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20LINKEDIN-BLUE?style=for-the-badge&logo=linkedin' height='48px'/></a>
+<img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20LINKEDIN-BLUE?style=for-the-badge&logo=linkedin' height='36px'/></a>
 
-<a href='https://twitter.com/OOzkercin/'><img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20TWITTER-BLUE?style=for-the-badge&logo=twitter' height='48px'/></a>
+<a href='https://twitter.com/OOzkercin/'><img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20TWITTER-BLUE?style=for-the-badge&logo=twitter' height='36px'/></a>
 
 
 ## Stats about my Github 📊
