@@ -1,4 +1,5 @@
-### Hello, welcome to my Github Profile 👋
+
+<h3> Hello, welcome to my Github Profile 👋 </h3>
 
 I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 
@@ -17,49 +18,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I’m currently working on 👨‍💻
+<h3> I’m currently working on 👨‍💻 </h3>
 
-I'm trying to add new project to my portfolio. Here is some of my repositories  <a href='https://github.com/OrhanOzkercin/Vanilla-Js-Projects'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='24px' /></a>
-<a href='https://github.com/OrhanOzkercin/Simple-Html-Css-Projects'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='24px' /></a>
-<a href='https://github.com/OrhanOzkercin/Simple-React-Projects'><img  src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='24px' /></a>
+I'm currently working on project for a dentist who's working for himself. In this project I'm using React and related technologies.
 
-Also I'm currently making my personal webpage (<a href='https://github.com/OrhanOzkercin/orhanozkercin.com'>Here is the repo</a>)
-
-
-##  I’m currently learning 📈
-
-
- - React <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='24px' /> 
- 
- - Sass  <img src='https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png' width='24px' />
- 
- ## What technologies I used 🔙
- 
- <img src='https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png' width='48px' /> <img src='https://www.mshowto.org/images/articles/2019/11/one-cikan.png' width='48px' />  <img src='https://miro.medium.com/max/5000/1*sluuRP9RbH3MPqzbFNLEmQ.png' width='48px' />  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='48px' />  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='48px' />  <img  src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='48px' /> <img src='https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png' width='48px' />
 
  
-##  I’m looking for help ... 💁‍♂️ 
-
- Currently looking for mentor to help me to be a better developer. Also I believe that I need to look some things more deeply that's why I'm also looking some friends to help each other.
+<h3> What technologies I'm currently working  </h3>
  
-##  Ask me about ☝️
-
- - What are difficulties to improve yourself while you are student?
- - How to continue when everything starts to become overwhelming? 
- - Is it too late to start something?
- 
-Also you can ask technical stuff about I mentioned above.
-
-## Contact me ☎️
-<a href='https://www.linkedin.com/in/orhanozkercin/'>
-<img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20LINKEDIN-BLUE?style=for-the-badge&logo=linkedin' height='36px'/></a>
-
-<a href='https://twitter.com/OOzkercin/'><img src='https://img.shields.io/badge/ORHANOZKERC%C4%B0N-FOLLOW%20ON%20TWITTER-BLUE?style=for-the-badge&logo=twitter' height='36px'/></a>
+  
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
 
 
-## Stats about my Github 📊
 
+
+<h3> Stats about my Github 📊 </h3>
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Forhanozkercin.orhanozkercin%2Freadme)
 
-![Orhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=orhanozkercin&show_icons=true)
+<span align='left'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhanozkercin&layout=compact&hide=html" alt="orhanozkercin" /></span><span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=orhanozkercin&show_icons=true" alt="orhanozkercin" /></span>  
+
+
+<p align="center">  
+<a href="https://codepen.io/orhando" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="orhando" height="30" width="30" /></a>  
+<a href="https://dev.to/orhanozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="orhanozkercin" height="30" width="30" /></a>  
+<a href="https://twitter.com/oozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oozkercin" height="30" width="30" /></a>  
+<a href="https://linkedin.com/in/orhanozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="orhanozkercin" height="30" width="30" /></a>  
+<a href="https://stackoverflow.com/users/9883034" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9883034" height="30" width="30" /></a>  
+<a href="https://medium.com/@orhanozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@orhanozkercin" height="30" width="30" /></a>  
+</p>
+  
