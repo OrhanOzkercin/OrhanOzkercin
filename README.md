@@ -50,4 +50,6 @@ I'm currently working on a project for a dentist who's working for himself. In t
 # My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stajyerlik Başvuru Serüvenim ve Tecrübelerim](https://medium.com/@orhanozkercin/stajyerlik-ba%C5%9Fvuru-ser%C3%BCvenim-ve-tecr%C3%BCbelerim-65c10aed2f68?source=rss-a63660de5f34------2)
+- [You need to find your ‘Uncle’](https://medium.com/@orhanozkercin/you-need-to-find-your-uncle-ef5ce89559bb?source=rss-a63660de5f34------2)
 <!-- BLOG-POST-LIST:END -->
