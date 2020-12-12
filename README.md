@@ -47,3 +47,7 @@ I'm currently working on a project for a dentist who's working for himself. In t
 <a href="https://medium.com/@orhanozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@orhanozkercin" height="30" width="30" /></a>  
 </p>
   
+# My blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
