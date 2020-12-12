@@ -47,7 +47,7 @@ I'm currently working on a project for a dentist who's working for himself. In t
 <a href="https://medium.com/@orhanozkercin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@orhanozkercin" height="30" width="30" /></a>  
 </p>
   
-# My blog posts
+## Check latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
 - [Stajyerlik Başvuru Serüvenim ve Tecrübelerim](https://medium.com/@orhanozkercin/stajyerlik-ba%C5%9Fvuru-ser%C3%BCvenim-ve-tecr%C3%BCbelerim-65c10aed2f68?source=rss-a63660de5f34------2)
