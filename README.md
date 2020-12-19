@@ -3,9 +3,7 @@
 
 I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 
-[![Spotify](https://spotify-readme.orhanozkercin.vercel.app)](https://open.spotify.com/user/11158120341)
-
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[![Spotify](https://orhanozkercin.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 <details>
