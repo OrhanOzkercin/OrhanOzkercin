@@ -3,15 +3,9 @@
 
 I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 
-<h3> I’m currently working on 👨‍💻 </h3>
+[![Spotify](https://spotify-readme.orhanozkercin.vercel.app)](https://open.spotify.com/user/11158120341)
 
-I'm currently working on a project for a dentist who's working for himself. In this project I'm using React and related technologies.
-
- <h3> Which technologies I'm currently working on </h3>
- 
-  
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="express" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="react" width="40" height="40"/>  
-
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
 
 <details>
