@@ -3,7 +3,7 @@
 
 I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 
-[![Spotify](https://orhanozkercin.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.orhanozkercin.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 <details>
