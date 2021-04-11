@@ -3,18 +3,9 @@
 
 I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.orhanozkercin.vercel.app/api/spotify)](https://open.spotify.com/user/11158120341)
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Forhanozkercin.orhanozkercin%2Freadme)
 
-
-</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
