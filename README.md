@@ -24,6 +24,7 @@ I'm Orhan, living in Izmir,Turkey. Currently I'm a computer engineering student.
 ## Check latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [2021'de Angular İle Geliştirme Yapılır Mı?](https://orhanozkercin.medium.com/2021de-angular-i%CC%87le-geli%C5%9Ftirme-yap%C4%B1l%C4%B1r-m%C4%B1-7b02afcac0e6?source=rss-a63660de5f34------2)
 - [Stajyerlik Başvuru Serüvenim ve Tecrübelerim](https://orhanozkercin.medium.com/stajyerlik-ba%C5%9Fvuru-ser%C3%BCvenim-ve-tecr%C3%BCbelerim-65c10aed2f68?source=rss-a63660de5f34------2)
 - [You need to find your ‘Uncle’](https://orhanozkercin.medium.com/you-need-to-find-your-uncle-ef5ce89559bb?source=rss-a63660de5f34------2)
 <!-- BLOG-POST-LIST:END -->
