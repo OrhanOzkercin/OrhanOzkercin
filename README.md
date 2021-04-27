@@ -8,6 +8,7 @@
 ## Check latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Junior Developerlar İçin İşe Girme Süreçleri Nasıl İşliyor?](https://orhanozkercin.medium.com/junior-developerlar-i%CC%87%C3%A7in-i%CC%87%C5%9Fe-girme-s%C3%BCre%C3%A7leri-nas%C4%B1l-i%CC%87%C5%9Fliyor-c0881ea64882)
 - [2021'de Angular İle Geliştirme Yapılır Mı?](https://medium.com/kodluyoruz/2021de-angular-i%CC%87le-geli%C5%9Ftirme-yap%C4%B1l%C4%B1r-m%C4%B1-7b02afcac0e6?source=rss-a63660de5f34------2)
 - [Stajyerlik Başvuru Serüvenim ve Tecrübelerim](https://orhanozkercin.medium.com/stajyerlik-ba%C5%9Fvuru-ser%C3%BCvenim-ve-tecr%C3%BCbelerim-65c10aed2f68?source=rss-a63660de5f34------2)
 <!-- BLOG-POST-LIST:END -->
