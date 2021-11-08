@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Singly Linked List nedir? Avantajları nelerdir? Diziler ile farkları nelerdir?](https://medium.com/kodluyoruz/singly-linked-list-nedir-avantajlar%C4%B1-nelerdir-diziler-ile-farklar%C4%B1-nelerdir-dfda63daeb20?source=rss-a63660de5f34------2)
 - [Her araba için ayrı ehliyet alınmaz!](https://orhanozkercin.medium.com/her-araba-i%C3%A7in-ayr%C4%B1-ehliyet-al%C4%B1nmaz-fda06a07d942?source=rss-a63660de5f34------2)
-- [2021'de Angular İle Geliştirme Yapılır Mı?](https://medium.com/kodluyoruz/2021de-angular-i%CC%87le-geli%C5%9Ftirme-yap%C4%B1l%C4%B1r-m%C4%B1-7b02afcac0e6?source=rss-a63660de5f34------2)
+- [2021&#39;de Angular İle Geliştirme Yapılır Mı?](https://medium.com/kodluyoruz/2021de-angular-i%CC%87le-geli%C5%9Ftirme-yap%C4%B1l%C4%B1r-m%C4%B1-7b02afcac0e6?source=rss-a63660de5f34------2)
 - [Stajyerlik Başvuru Serüvenim ve Tecrübelerim](https://orhanozkercin.medium.com/stajyerlik-ba%C5%9Fvuru-ser%C3%BCvenim-ve-tecr%C3%BCbelerim-65c10aed2f68?source=rss-a63660de5f34------2)
 <!-- BLOG-POST-LIST:END -->
 
