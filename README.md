@@ -8,6 +8,17 @@
   </p>
 <br>
 
+
+#### Current Stack I am working on 👨‍💻
+<p >
+ <img align="center" src="https://user-images.githubusercontent.com/25130814/154834346-d44fb9fc-4bb8-462d-b2b1-519279396a6c.png" alt="oozkercin" width="30" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="oozkercin" width="30" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="oozkercin"  width="30" />
+<img align="center" src="https://user-images.githubusercontent.com/25130814/154834614-b82491dc-71cb-4e3f-836e-24782240d3a0.png" alt="oozkercin"  width="30" />
+
+<img align="center" src="https://user-images.githubusercontent.com/25130814/154834467-479ce086-a9b9-4251-adb6-b821801d663d.png" alt="oozkercin"  width="30" />
+<img align="center" src="https://user-images.githubusercontent.com/25130814/154834516-0b92fca9-9a55-4815-81d7-8aeb6cad6bb2.png" alt="oozkercin"  width="25" />
+</p>
 ## Check latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
