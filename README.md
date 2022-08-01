@@ -19,6 +19,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/25130814/154834467-479ce086-a9b9-4251-adb6-b821801d663d.png" alt="oozkercin"  width="30" />
 <img align="center" src="https://user-images.githubusercontent.com/25130814/154834516-0b92fca9-9a55-4815-81d7-8aeb6cad6bb2.png" alt="oozkercin"  width="25" />
 </p>
+
 ## Check latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
